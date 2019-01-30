@@ -3,7 +3,7 @@
 # Laboratorio 2
 
 #Mateo guzman,
-#Italo Novoa
+Italo Novoa
 
 #Punto1
 
