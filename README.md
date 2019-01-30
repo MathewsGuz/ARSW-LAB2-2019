@@ -2,8 +2,8 @@
 
 # Laboratorio 2
 
-# Mateo guzman,
-# Italo Novoa
+#Mateo guzman,
+#Italo Novoa
 
 #Punto1
 
