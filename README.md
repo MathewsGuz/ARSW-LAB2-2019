@@ -1,9 +1,9 @@
 # ARSW-LAB2-2019
 
-#Laboratorio 2
+# Laboratorio 2
 
-Mateo guzman,
-Italo Novoa
+# Mateo guzman,
+# Italo Novoa
 
 #Punto1
 
